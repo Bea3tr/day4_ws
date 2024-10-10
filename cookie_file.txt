@@ -1,0 +1,7 @@
+There are 10 types of people in this world. Those who knows binary and those who don't.
+There is no place like 127.0.0.1.
+IP addresses and port numbers are like HDB blocks and units.
+TCP is connection oriented.
+The networking model can be referred to as L1 - L7.
+IP addresses are unsigned, 0 - 255.
+Threads are like additional workers in a main thread.
